@@ -6,6 +6,10 @@ My own blog‘s frontend code（base on angular）
 * 完成服务器的选择：`阿里云服务器`
 * `7-8 17:39`：完成框架的选择以及云服务器的部署
 * 服务器ip地址：`http://39.106.31.129`
+## 部署
+### 前端部署
+* 前端部署参考教程：[网址](https://blog.csdn.net/weixin_43269840/article/details/104921174)
+* 使用docker+nginx部署angular项目
 ## 初始demo
 * `ddl:8.1`
 ### 前端demo
